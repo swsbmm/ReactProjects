@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test en el componente <CounterApp/> debe hacer mach con el snapshot 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <h1>
+      Counter App
+    </h1>
+    <div>
+      <p>
+        10
+      </p>
+      <div>
+        <button>
+          +1
+        </button>
+        <button>
+          -1
+        </button>
+        <button>
+          reset
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

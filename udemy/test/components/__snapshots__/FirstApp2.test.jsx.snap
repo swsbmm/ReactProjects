@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test in the fist component <FistApp/>  debe hacer mach con el snapshot 1`] = `
+<div>
+  <h1
+    data-testid="test-title"
+  >
+    Hola Mundo
+  </h1>
+  <p
+    data-testid="test-subtitle"
+  />
+  <p
+    data-testid="test-subtitle"
+  />
+  <p>
+    -
+  </p>
+</div>
+`;
